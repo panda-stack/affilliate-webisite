@@ -1,0 +1,1 @@
+web:gunicorn affiliate-website.wsgi --log-file
